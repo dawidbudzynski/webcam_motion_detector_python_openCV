@@ -31,5 +31,5 @@ p.add_tools(hover)
 
 q = p.quad(left='Start', right='End', bottom=0, top=1, color='deepskyblue', source=cds)
 
-output_file('Graph.html')
+output_file('results/Graph.html')
 show(p)
