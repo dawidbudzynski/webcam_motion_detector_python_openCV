@@ -21,4 +21,4 @@ To quit press 'q'
 
 
 ## Demo
-![alt text](https://raw.githubusercontent.com/dawidbudzynski/webcam_motion_detector_openCV/master/example.gif)
+![alt text](https://raw.githubusercontent.com/dawidbudzynski/webcam_motion_detector_openCV/master/examples/example.gif)
